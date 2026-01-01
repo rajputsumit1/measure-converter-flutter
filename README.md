@@ -1,16 +1,23 @@
-# measure_converter
+# Measure Converter App (Flutter)
+https://rajputsumit1.github.io/measure-converter-flutter/
 
-A new Flutter project.
+A modern and responsive **Unit/Measure Converter** built using **Flutter (Web + Mobile support)**.
 
-## Getting Started
+## 🌟 Features
 
-This project is a starting point for a Flutter application.
+- Convert between multiple units of:
+  - 📏 **Length** (Meter, KM, Feet, Miles)
+  - ⚖️ **Weight** (Gram, KG, Pounds, Ounces)
+- 🔽 Dropdown-based unit selection
+- ⚡ Instant and accurate conversion
+- 📱 Fully responsive UI (Mobile + Web)
+- 🚀 Ready for Flutter Web deployment (GitHub Pages supported)
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**
+- **Dart**
+- **Flutter Web**
+- **Git & GitHub**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
